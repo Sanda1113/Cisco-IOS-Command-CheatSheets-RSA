@@ -15,6 +15,12 @@ Commands are organized by topic,
 :bulb: as well as important configuration, verification, and troubleshooting reminders and tips 
 
 ---
+## Learning from below!
+
+- [Router commands](https://github.com/Sanda1113/Cisco-IOS-Command-CheatSheets-RSA/blob/main/Router_commands.md)
+- [Switch commands](https://github.com/Sanda1113/Cisco-IOS-Command-CheatSheets-RSA/blob/main/Switch_commands.md)
+---
+---
 ## :books: Information sources
 - ### :mortar_board: Cisco Networking Academy:
     - CCNAv7: Switching, Routing, and Wireless Essentials course (version 7)
