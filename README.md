@@ -17,6 +17,7 @@ Commands are organized by topic,
 ---
 ## Learning from below!
 
+- [Basic Intial Congiarations](https://github.com/Sanda1113/Cisco-IOS-Command-CheatSheets-RSA/blob/main/Basic_initial_configarations.md)
 - [Router commands](https://github.com/Sanda1113/Cisco-IOS-Command-CheatSheets-RSA/blob/main/Router_commands.md)
 - [Switch commands](https://github.com/Sanda1113/Cisco-IOS-Command-CheatSheets-RSA/blob/main/Switch_commands.md)
 ---
